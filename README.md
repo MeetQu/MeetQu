@@ -13,7 +13,7 @@
 # -*- coding: utf-8 -*-
 
 
-class JuniorResearcher:
+class ResearchStudent:
 
     def __init__(self):
         self.name = "Jingguo QU"
@@ -25,6 +25,6 @@ class JuniorResearcher:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = JuniorResearcher()
+me = ResearchStudent()
 me.say_hi()
 ```
